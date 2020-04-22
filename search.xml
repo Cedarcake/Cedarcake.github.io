@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试</title>
+    <url>/2020/04/22/1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我只是测试</p>
+
+        <div id="aplayer-fpWLLMvN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"歌曲名1","author":"歌手名1","url":"https://upos-sz-mirrorkodo.bilivideo.com/ugaxcode/i180803ws2cgt42qae0n4o2fms8hv2h2-192k.m4a?deadline=1587585625&gen=uga&os=kodobv&uparams=deadline,gen,os&upsig=776bea1dd9bb6da269b5abc8c508ba6a","pic":"https://封面图.jpg","lrc":"https://歌词.lrc"},{"title":"歌曲名","author":"歌手名","url":"https://什么什么什么.mp3","pic":"https://封面图.jpg","lrc":"https://歌词.lrc"}]};
+				  options.element = document.getElementById("aplayer-fpWLLMvN");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2020/04/22/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>欢迎阅读我的博客，博客创建时间：2020/4/22<br>今后的学习记录都会呈现于此，<br>欢迎大家互相学习。</p>
+<a id="more"></a>
+<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>QQ:1248558099</p>
+<p><img src="/2020/04/22/hello-world/tx.jpg" alt="a"></p>
+]]></content>
+  </entry>
+</search>
