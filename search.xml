@@ -17,10 +17,10 @@
     <url>/2020/04/22/%E6%AD%8C%E5%8D%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>歌单</p>
 
-        <div id="aplayer-RsfeDfJk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-MVAehUOT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
-				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mutex":true,"music":[{"title":"夏天的风","author":"火羊瞌睡了","url":"http://music.163.com/song/media/outer/url?id=1436709403.mp3","pic":"/2020/04/22/歌单/夏天的风.png","lrc":"https://歌词.lrc"},{"title":"思い出は奇麗で","author":"Aimer","url":"http://music.163.com/song/media/outer/url?id=1297747304.mp3","pic":"http://p2.music.126.net/GaZZrVWKyWTb4QqbycYwRw==/109951163550364979.jpg","lrc":"https://歌词.lrc"}]};
-				  options.element = document.getElementById("aplayer-RsfeDfJk");
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"volume":0.3,"mutex":true,"music":[{"title":"夏天的风","author":"火羊瞌睡了","url":"http://music.163.com/song/media/outer/url?id=1436709403.mp3","pic":"/2020/04/22/歌单/夏天的风.png","lrc":"https://歌词.lrc"},{"title":"思い出は奇麗で","author":"Aimer","url":"http://music.163.com/song/media/outer/url?id=1297747304.mp3","pic":"http://p2.music.126.net/GaZZrVWKyWTb4QqbycYwRw==/109951163550364979.jpg","lrc":"https://歌词.lrc"}]};
+				  options.element = document.getElementById("aplayer-MVAehUOT");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
