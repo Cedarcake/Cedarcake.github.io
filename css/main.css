@@ -1170,7 +1170,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff7f45;
+  background: #ff8fd1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1514,7 +1514,7 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("/images/bg.png");
+  background: url("http://imgs.aixifan.com/content/2019_2_19/1.5505758640672781E9.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
