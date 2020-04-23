@@ -2,6 +2,7 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
     autoplay: true,
+    volume: 0.2,
     audio: [
       {
         name: '夏天的风（原唱：温岚）',
