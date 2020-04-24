@@ -5,7 +5,7 @@
     <url>/blog/2020/04/22/123/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>欢迎阅读我的博客，博客搭建时间： 2020/4/22<br>部署于： Gitee pages (另外部署于 Github : cedarcake.github.io )<br>基于框架： Hexo<br>主题： Next<br>美化： 个人<br>今后的学习记录都会呈现于此，<br>欢迎大家互相学习。</p>
 <a id="more"></a>
-<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>QQ:1248558099<br><img src="../../../../../images/tx.jpg" alt="a"></p>
+<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>QQ:1248558099<br><img src="../../../../images/tx.jpg" alt="a"></p>
 ]]></content>
       <tags>
         <tag>前言</tag>
