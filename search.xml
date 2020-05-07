@@ -2,18 +2,7 @@
 <search>
   <entry>
     <title>博客</title>
-    <url>/2020/04/22/123/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>欢迎阅读我的博客，博客搭建时间： 2020/4/22<br>部署于： Gitee pages (另外部署于 Github : cedarcake.github.io )<br>基于框架： Hexo<br>主题： Next<br>美化： 个人<br>今后的学习记录都会呈现于此，<br>欢迎大家互相学习。</p>
-<a id="more"></a>
-<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>QQ:1248558099<br><img src="../../../../images/%E9%A6%96%E7%AB%A01.jpg" alt="a"><br>(4/24修改)</p>
-]]></content>
-      <tags>
-        <tag>前言</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客</title>
-    <url>/2020/04/22/4-22%E9%A6%96%E7%AB%A0/</url>
+    <url>/blog/2020/04/22/4-22%E9%A6%96%E7%AB%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>欢迎阅读我的博客，博客搭建时间： 2020/4/22<br>部署于： Github pages (gitee: cedar_i.gitee.io)<br>基于框架： Hexo<br>主题： Next<br>美化： 个人<br>今后的学习记录都会呈现于此，<br>欢迎大家互相学习。</p>
 <a id="more"></a>
 <h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>QQ:1248558099<br><img src="../../../../../../images/tx.jpg" alt="a"></p>
@@ -24,7 +13,7 @@
   </entry>
   <entry>
     <title>数据结构-单链表</title>
-    <url>/2020/04/22/4-24%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%8D%95%E9%93%BE%E8%A1%A8/</url>
+    <url>/blog/2020/04/22/4-24%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%8D%95%E9%93%BE%E8%A1%A8/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="数据结构-单链表"><a href="#数据结构-单链表" class="headerlink" title="数据结构-单链表"></a>数据结构-单链表</h3><h1 id="单链表"><a href="#单链表" class="headerlink" title="单链表"></a>单链表</h1><p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。<br>链表中的数据是以结点来表示的<br>每个结点的构成:元素(数据元素的映象) + 指针(指示后继元素存储位置)<br>元素就是存储数据的存储单元，指针就是连接每个结点的地址数据</p>
 <h1 id="链表定义"><a href="#链表定义" class="headerlink" title="链表定义"></a>链表定义</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">typedef int ElemType;</span><br><span class="line">typedef struct Node</span><br><span class="line">&#123;</span><br><span class="line">	ElemType data;</span><br><span class="line">	struct Node *next;</span><br><span class="line">&#125;LNode,*LinkList;&#x2F;&#x2F;定义单链表结点结构体</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
@@ -57,7 +46,7 @@
   </entry>
   <entry>
     <title>5-7二叉树的应用</title>
-    <url>/2020/05/07/5-7%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+    <url>/blog/2020/05/07/5-7%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="定义二叉树结点和结点指针"><a href="#定义二叉树结点和结点指针" class="headerlink" title="定义二叉树结点和结点指针"></a>定义二叉树结点和结点指针</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">typedef struct BiTNode</span><br><span class="line">&#123;</span><br><span class="line">    char data;</span><br><span class="line">    struct BiTNode *lchild,*rchild; &#x2F;&#x2F;定义出左孩子和右孩子</span><br><span class="line">&#125;BiTNode,*BiTree;</span><br></pre></td></tr></table></figure>
 
 <hr>
